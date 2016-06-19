@@ -1,0 +1,23 @@
+.underline {
+  border-bottom: 1px solid black;
+  padding-bottom: 5px;
+}
+
+.box-kwitansi{
+  border:1px solid black;
+  padding:5px 20px 5px 20px;
+  font-size: 20pt;
+}
+
+.table-kwitansi {
+  margin-left: 15px;
+  font-size: 15pt;
+}
+
+  .table-kwitansi .col {
+    padding-right: 30px;
+  }
+
+  .table-kwitansi .underline, .table-kwitansi .box {
+    width:700px;
+  }
